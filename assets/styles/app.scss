@@ -1,0 +1,15 @@
+// ABSTRACTS
+$primary: rgb(83, 114, 217);
+
+// the ~ allows you to reference things in node_modules
+@import "~bootstrap/scss/bootstrap";
+
+// BASE
+@import "./bases/typography";
+// COMPONENTS
+
+// LAYOUT
+
+// PAGES
+
+// Themes
